@@ -18,6 +18,7 @@ and the last but not the least i have learned a lot about UI/UX Design specially
 
 ## Outside of Coding i enjoy:
 
-- Playing Guitar
-- Cycling
-- reading
+- 🎸 Playing Guitar
+- 🚴 Cycling
+- 📖 Reading
+- 😴 Sleeping
