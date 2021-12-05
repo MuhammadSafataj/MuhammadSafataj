@@ -1,8 +1,8 @@
 ### Hi there 👋 I am Muhammad
 
 I am a Senior Android developer. Who loves to code and learn more everyday.
-Experienced in Building Creative Applications using Kotlin, Java, MVVM, Retrofit, Protobuff, Material Design and more.
-and the last but not the least i have learned a lot about UI/UX Design specially Google Material Design.
+Experienced in Building Creative Applications using Kotlin, Java, MVVM, Retrofit, Protobuf, Material Design and more,
+and last but not least I have learned a lot about UI/UX Design specially Google Material Design.
 
 ## Skills:
 
@@ -15,8 +15,9 @@ and the last but not the least i have learned a lot about UI/UX Design specially
 - Figma
 - Adobe XD
 - Room DB
+- Protobuf
 
-## Outside of Coding i enjoy:
+## Outside of Coding I enjoy:
 
 - 🎸 Playing Guitar
 - 🚴 Cycling
