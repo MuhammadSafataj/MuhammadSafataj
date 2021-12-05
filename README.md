@@ -1,10 +1,27 @@
-### Hi there 👋
+### Hi there 👋 I am Muhammad
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I am a Senior Android developer. Who loves to code and learn more everyday.
+Experienced in Building Creative Applications using Kotlin, Java, MVVM, Retrofit, Protobuff, Material Design and more.
+and the last but not the least i have learned a lot about UI/UX Design specially Google Material Design.
+
+---
+
+## Skills:
+
+- Kotlin
+- Java
+- MVVM Architecture
+- Retrofit
+- Git
+- Github
+- Figma
+- Adobe XD
+- Room DB
+
+---
+
+## Outside of Coding i enjoy:
+
+- Playing Guitar
+- Cycling
+- reading
