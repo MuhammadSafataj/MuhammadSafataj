@@ -9,6 +9,9 @@ and last but not least I have learned a lot about UI/UX Design specially Google 
 - Kotlin
 - Java
 - MVVM Architecture
+- Dependency Injection
+- Hilt
+- Dagger
 - Retrofit
 - Git
 - Github
