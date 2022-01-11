@@ -4,7 +4,7 @@ I am a Senior Android developer. Who loves to code and learn more everyday.
 Experienced in building creative applications using Kotlin, Java, MVVM, Retrofit, Protobuf, Material Design and more,
 and last but not least I have learned a lot about UI/UX Design specially Google Material Design.
 
-## Skills:
+## Skills
 
 1. Kotlin
 2. Java
@@ -23,10 +23,10 @@ and last but not least I have learned a lot about UI/UX Design specially Google 
 
 ## Job Experience
 
-- YourCast
+- **YourCast**
   - An Android Weather Forecast Application based on MVVM Arch.
 
-## Outside of Coding I enjoy:
+## Outside of Coding I enjoy
 
 - 🎸 Playing Guitar
 - 🚴 Cycling
