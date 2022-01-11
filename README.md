@@ -6,19 +6,20 @@ and last but not least I have learned a lot about UI/UX Design specially Google 
 
 ## Skills:
 
-- Kotlin
-- Java
-- MVVM Architecture
-- Dependency Injection
-- Hilt
-- Dagger
-- Retrofit
-- Git
-- Github
-- Figma
-- Adobe XD
-- Room DB
-- Protobuf
+1. Kotlin
+2. Java
+3. MVVM Architecture
+4. Dependency Injection
+5. Hilt
+6. Dagger
+7. Retrofit
+8. Git
+9. Github
+10. Figma
+11. Adobe XD
+12. Room DB
+13. Protobuf
+14. Team Development
 
 ## Job Experience
 
