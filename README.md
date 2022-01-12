@@ -1,19 +1,17 @@
 ![Header](https://cms-assets.tutsplus.com/cdn-cgi/image/width=850/uploads/users/1631/posts/34756/image/Twitter%20Header%20maker%20for%20Quotes%20with%20a%20Text%20Ribbon%20copy.jpg)
 
-**Hello World,**
-<br>
+**Hello World,** <br>
 I am Muhammad, a Senior Android developer. Who loves to code and learn more everyday. <br>
 Experienced in building creative applications using Kotlin, Java, MVVM, Retrofit, Protobuf, Material Design and more. <br>
 and last but not least I have learned a lot about UI/UX Design specially Google Material Design.
 
 ## Programming Languages
-
 [<img src="https://unpkg.com/simple-icons@v3/icons/java.svg" alt="java" width="48" />](https://java.com)
 [<img src="https://unpkg.com/simple-icons@v3/icons/kotlin.svg" alt="kotlin" width="48" />](https://kotlinlang.org)
 [<img src="https://unpkg.com/simple-icons@v3/icons/javascript.svg" alt="javascript" width="48" />](https://javascript.com)
 [<img src="https://unpkg.com/simple-icons@v3/icons/php.svg" alt="php" width="48" />](https://php.net)
-## Skills
 
+## Skills
 [<img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" alt="badge" height="36" />](https://adobe.com)
 [<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="badge" height="36" />](https://figma.com)
 [<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="badge" height="36" />](https://docker.com)
@@ -28,7 +26,6 @@ and last but not least I have learned a lot about UI/UX Design specially Google 
 [<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="badge" height="36" />](https://w3.org)
 
 ## Android Design Pattern
-
 1. MVVM Architecture
 2. Dependency Injection
 3. Hilt
@@ -38,12 +35,10 @@ and last but not least I have learned a lot about UI/UX Design specially Google 
 11. Protobuf
 
 ## Job Experience
-
 - [**YourCast**](https://www.github.com/muhammadsafataj/yourcast): An Android Weather Forecast Application based on MVVM Arch.
 - [**Diba**](https://diba.safer.ir): An App created for transportaion companies
 - **Shooka**
 
 ## Contact
-
-[<img src="https://unpkg.com/simple-icons@v3/icons/linkedin.svg" alt="linkedin" width="48" />](https://linkedin.com/muhammad-safataj)
+[<img src="https://unpkg.com/simple-icons@v3/icons/linkedin.svg" alt="linkedin" width="48" />](https://linkedin.com/in/muhammad-safataj)
 [<img src="https://unpkg.com/simple-icons@v3/icons/gmail.svg" alt="gmail" width="48" />](https://muhammadsafataj@gmail.com)
