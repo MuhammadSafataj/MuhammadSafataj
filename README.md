@@ -42,3 +42,4 @@ and last but not least I have learned a lot about UI/UX Design specially Google 
 ## Contact
 [<img src="https://unpkg.com/simple-icons@v3/icons/linkedin.svg" alt="linkedin" width="48" />](https://linkedin.com/in/muhammad-safataj)
 [<img src="https://unpkg.com/simple-icons@v3/icons/gmail.svg" alt="gmail" width="48" />](https://muhammadsafataj@gmail.com)
+[<img src="https://unpkg.com/simple-icons@v3/icons/instagram.svg" alt="instagram" width="48" />](https://instagram.com/muhammadsafataj)
