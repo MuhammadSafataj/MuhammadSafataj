@@ -29,7 +29,7 @@ and last but not least I have learned a lot about UI/UX Design specially Google 
 1. MVVM Architecture
 2. Dependency Injection
 3. Hilt
-4. repository
+4. Repository
 5. Retrofit
 10. Room DB
 11. Protobuf
